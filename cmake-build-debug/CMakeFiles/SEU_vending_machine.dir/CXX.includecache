@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/MANU.cpp
+vendor.h
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.h
+
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/VIP.cpp
+vendor.h
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.h
+
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/main.cpp
+vendor.h
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.h
+
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.cpp
+vendor.h
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.h
+
+/media/zyf/D026AA3626AA1E0A/Users/ZYF/Desktop/C++/SEU_vending_machine/vendor.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+ctime
+-
+iomanip
+-
+

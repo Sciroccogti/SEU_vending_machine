@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SEU_vending_machine.dir/main.cpp.o CMakeFiles/SEU_vending_machine.dir/vendor.cpp.o CMakeFiles/SEU_vending_machine.dir/VIP.cpp.o CMakeFiles/SEU_vending_machine.dir/MANU.cpp.o  -o SEU_vending_machine 
